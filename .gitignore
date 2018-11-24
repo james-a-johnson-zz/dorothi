@@ -11,6 +11,7 @@ build/
 *.o
 *.obj
 *.bin
+project.properties
 
 # Precompiled Headers
 *.gch
